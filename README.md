@@ -1,5 +1,8 @@
 # StarfieldCanvas
 A starfield in canvas using only js
+The magic is implemented in **sketch.js** file
+
+![alt text](https://github.com/Gadotti/StarfieldCanvas/blob/master/starfield.gif "The Starfield")
 
 # The library
 I'm using the p5.js library to easy write and draw what I want.

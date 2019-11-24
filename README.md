@@ -1,5 +1,5 @@
 # StarfieldCanvas
-A starfield in canvas using only js
+A starfield in canvas using only js.
 The magic is implemented in **sketch.js** file
 
 ![alt text](https://github.com/Gadotti/StarfieldCanvas/blob/master/starfield.gif "The Starfield")
